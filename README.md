@@ -4,10 +4,10 @@ Point &amp; Click Adventure Prototype
 ## Finding a Home – Prototypentwicklung Point & Click
 ## Projektteam
 Teammitglied	Matrikelnummer	Tätigkeitsbereich
-Dana-Lucia Hinz	2553711	Design & Game Design
-Mursal Djavaheri	2552800	Text & Sound
-Soe Önder	2552785	Game Design & Text
-Leander Wernst	2555900	Development
+Dana-Lucia H Design & Game Design
+Mursal D Text & Sound
+Soe Ö	Game Design & Text
+Leander W	Development
 
 ## Gameplay-Video
 http://youtube.com/watch?v=OtM3HaeACZM
